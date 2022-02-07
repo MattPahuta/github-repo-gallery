@@ -5,6 +5,10 @@ This is my solution to the final project of the [Skillcrush](https://www.skillcr
 ## Overview
 The project is focused on connecting to and pulling data from the GitHub REST API and dynamically populating page elements through event listeners and a search input.
 
+### Screenshots
+
+![](screenshot_github-repo-gallery.png)
+
 ### Project Requirements
 
 Users should be able to:
